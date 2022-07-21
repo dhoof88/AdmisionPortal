@@ -1,0 +1,98 @@
+/* _content/UniversityADmisionAPP/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ujrc2d0yyc] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ujrc2d0yyc] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ujrc2d0yyc] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ujrc2d0yyc], .nav-pills .show > .nav-link[b-ujrc2d0yyc] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ujrc2d0yyc] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ujrc2d0yyc] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ujrc2d0yyc] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ujrc2d0yyc] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ujrc2d0yyc] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/UniversityADmisionAPP/Views/Shared/_Layout2.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-vmiaui1xc5] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-vmiaui1xc5] {
+  color: #0077cc;
+}
+
+.btn-primary[b-vmiaui1xc5] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-vmiaui1xc5], .nav-pills .show > .nav-link[b-vmiaui1xc5] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-vmiaui1xc5] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-vmiaui1xc5] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-vmiaui1xc5] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-vmiaui1xc5] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-vmiaui1xc5] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
